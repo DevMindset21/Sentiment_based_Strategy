@@ -1,3 +1,12 @@
+## Problem Statement
+Building a trading strategy that uses NLP to extracts the information inside the news headlines, assigns a sentiment to that and use the sentiments and the information inside the news headlines for a trading strategy.
+
+## Dataset
+1. News headlines data compiled from RSS feeds of several news websites: This news headlines data is complied by different news website and contains the most financially relevant news filtered. 
+2. Yahoo finance website for the stock return: (The return data can be obtained from other website such as yahoo finance)
+3. Kaggle: labelled data of of news sentiments obtained for a classification based sentiment analysis model. This data may not be authentic and is used only for demonstration purpose in this case study.
+4. Stock market lexicon created based on stock market conversations in microblogging services.
+
 ## Logic
 
 In the trading strategy, we buy and sell stock as per the current stock sentiments :
