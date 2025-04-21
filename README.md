@@ -1,5 +1,5 @@
 # Sentiment_based_Strategy
-In the trading strategy in this case study we buy and sell stock as per the current stock sentiments :
+In the trading strategy, we buy and sell stock as per the current stock sentiments :
 1. Buy a stock when the change in sentiment score (Current sentiment score - previous sentiment score) is greater than .5
 2. sell a stock when the change in sentiment score is less than -.5.
 
